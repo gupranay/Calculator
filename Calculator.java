@@ -52,20 +52,6 @@ public class Calculator {
 				list.add(token);
 			}
 			
-//			if('-' == now-1 && i > 1) {
-//				if(now2 == '-' || now2 == '+' || now2 == '*'|| now2 == '/'|| now2 == '('|| now2 == ')'|| now2 == '^') {
-//					current += now2;
-//					if (isDigit(now)) {
-//						current = current + now;
-//					} else if (!"".equals(current)) {
-//						Token token = new Token();
-//						token.setValue(current.trim());
-//						token.setType(TokenType.OPERAND);
-//						current = "";
-//						list.add(token);
-//					}
-//				}
-//			}
 			
 			
 
